@@ -1,4 +1,4 @@
-# 🛍️ FakeStore Product Viewer
+# 🛍️ API Product Display - FakeStore Product Viewer
 
 This is a simple JavaScript web application that fetches product data from the [FakeStore API](https://fakestoreapi.com/) and displays it in a user-friendly format.
 
